@@ -12,7 +12,8 @@ Freezing Trap Effect
 Polymorph
 Mind Control
 Gnomish Mind Control Cap
-Reckless ChargeBlind
+Reckless Charge
+Blind
 Repentance
 Seduction
 Silence
