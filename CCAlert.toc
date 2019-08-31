@@ -1,0 +1,7 @@
+﻿## Interface: 11302
+## Title: CC Alert
+## Notes: Announces to everyone around you when you are afflicted by a Crowd Control debuff. 
+## Author: Judisch
+## Version: 1.0
+
+CCAlert.lua
